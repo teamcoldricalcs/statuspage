@@ -1,8 +1,6 @@
-# Change these first
 owner: teamcoldricalcs # Your GitHub username
 repo: statuspage # Your GitHub repository name
 
-# Add your sites here
 sites:
   - name: Main Site
     url: https://coldricalcs.com
@@ -12,8 +10,6 @@ sites:
     url: https://help.coldricalcs.com
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   cname: status.coldricalcs.com
   favicon: https://raw.githubusercontent.com/teamcoldricalcs/status/master/assets/icon-transparent.png
   logoUrl: https://raw.githubusercontent.com/teamcoldricalcs/status/master/assets/wordmark-transparent.png
@@ -27,6 +23,3 @@ status-website:
       href: https://help.coldricalcs.com/
     - title: Status
       href: /
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
