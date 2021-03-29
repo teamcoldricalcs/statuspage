@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: status.coldricalcs.com
   favicon: https://raw.githubusercontent.com/teamcoldricalcs/statuspage/master/assets/icon-new.svg
-  logoUrl: https://raw.githubusercontent.com/teamcoldricalcs/status/master/assets/wordmark-new.svg
+  logoUrl: https://raw.githubusercontent.com/teamcoldricalcs/statuspage/master/assets/wordmark-new.svg
   name: Coldricalcs Status
   introTitle: "Keep up-to-date with the current status of Coldricalcs!"
   introMessage: This is status page is automatically updated every time we have an issue and is updated by Coldricalcs staff during every incident.
