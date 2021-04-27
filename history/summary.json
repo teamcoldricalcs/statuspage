@@ -4,7 +4,7 @@
     "url": "https://coldricalcs.com",
     "icon": "https://favicons.githubusercontent.com/coldricalcs.com",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 500,
     "timeDay": 524,
     "timeWeek": 431,
-    "timeMonth": 504,
+    "timeMonth": 512,
     "timeYear": 500,
     "dailyMinutesDown": {}
   },
