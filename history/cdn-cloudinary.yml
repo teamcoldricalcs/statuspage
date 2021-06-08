@@ -1,7 +1,7 @@
 url: https://res.cloudinary.com/dhi83lpnp/image/upload/v1612812038/latest_zsmlic.jpg
-status: down
-code: 503
-responseTime: 59
-lastUpdated: 2021-06-08T09:55:22.016Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2021-06-08T10:22:51.808Z
 startTime: Fri Mar 19 2021 21:16:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
