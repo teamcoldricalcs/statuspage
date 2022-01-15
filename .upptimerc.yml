@@ -4,8 +4,6 @@ repo: statuspage # Your GitHub repository name
 sites:
   - name: Main Site
     url: https://coldricalcs.com
-  - name: CDN (Cloudinary)
-    url: https://res.cloudinary.com/dhi83lpnp/image/upload/v1612812038/latest_zsmlic.jpg
   - name: Help Centre
     url: https://help.coldricalcs.com
 
