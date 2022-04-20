@@ -22,17 +22,17 @@
     "url": "https://help.coldricalcs.com",
     "icon": "https://favicons.githubusercontent.com/help.coldricalcs.com",
     "slug": "help-centre",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 306,
-    "timeWeek": 319,
-    "timeMonth": 301,
-    "timeYear": 309,
+    "time": 341,
+    "timeDay": 4810,
+    "timeWeek": 1443,
+    "timeMonth": 583,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   }
 ]
