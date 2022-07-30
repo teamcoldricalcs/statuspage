@@ -4,7 +4,7 @@
     "url": "https://coldricalcs.com",
     "icon": "https://favicons.githubusercontent.com/coldricalcs.com",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 440,
     "timeDay": 387,
     "timeWeek": 532,
-    "timeMonth": 475,
+    "timeMonth": 513,
     "timeYear": 444,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://help.coldricalcs.com",
     "icon": "https://favicons.githubusercontent.com/help.coldricalcs.com",
     "slug": "help-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 373,
     "timeDay": 250,
     "timeWeek": 408,
-    "timeMonth": 377,
+    "timeMonth": 408,
     "timeYear": 392,
     "dailyMinutesDown": {}
   }
